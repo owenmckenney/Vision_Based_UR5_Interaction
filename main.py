@@ -93,3 +93,4 @@ if __name__ == "__main__":
             print(f"Frequency: {rt:.8f}, ")
             print(f"Error: ({x_e:.2f}, {y_e:.2f}), Error Magnitude: {error_mag:.2f}, Control: ({x_control:.2f}, {y_control:.2f})")
             print(f"Cube Position: ({cube_position[0]}, {cube_position[1]}), Hand Position: ({hand_position[0]}, {hand_position[1]})")
+            
